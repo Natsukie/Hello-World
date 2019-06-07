@@ -10,7 +10,7 @@
 		5590E7BE22AA660A00A1601F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5590E7BD22AA660A00A1601F /* AppDelegate.swift */; };
 		5590E7C022AA660A00A1601F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5590E7BF22AA660A00A1601F /* SceneDelegate.swift */; };
 		5590E7C222AA660A00A1601F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5590E7C122AA660A00A1601F /* ViewController.swift */; };
-		5590E7C522AA660A00A1601F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5590E7C322AA660A00A1601F /* Main.storyboard */; };
+		5590E7C522AA660A00A1601F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5590E7C322AA660A00A1601F /* Main.storyboard */; settings = {ASSET_TAGS = (l, ); }; };
 		5590E7C822AA660A00A1601F /* Hello_World.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5590E7C622AA660A00A1601F /* Hello_World.xcdatamodeld */; };
 		5590E7CA22AA660C00A1601F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5590E7C922AA660C00A1601F /* Assets.xcassets */; };
 		5590E7CD22AA660C00A1601F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5590E7CB22AA660C00A1601F /* LaunchScreen.storyboard */; };
@@ -146,6 +146,9 @@
 		5590E7B222AA660A00A1601F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					l,
+				);
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = Guangzu;
